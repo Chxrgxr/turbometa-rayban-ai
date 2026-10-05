@@ -42,9 +42,9 @@
 		<key>AppLinkURLScheme</key>
 		<string>turbometa://</string>
 		<key>MetaAppID</key>
-		<string>$(META_APP_ID)</string>
+		<string>1820792255781573</string>
 		<key>ClientToken</key>
-		<string>$(CLIENT_TOKEN)</string>
+		<string>AR|1820792255781573|2b1db7c73297e317de63c5ef57ebc6c6</string>
 		<key>TeamID</key>
 		<string>$(DEVELOPMENT_TEAM)</string>
 	</dict>
