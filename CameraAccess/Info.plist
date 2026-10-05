@@ -24,9 +24,10 @@
 			<key>CFBundleTypeRole</key>
 			<string>Editor</string>
 			<key>CFBundleURLName</key>
-			<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+			<string>com.smartview.glassai.app</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
+				<string>com.smartview.glassai.app</string>
 				<string>turbometa</string>
 			</array>
 		</dict>
@@ -40,7 +41,7 @@
 	<key>MWDAT</key>
 	<dict>
 		<key>AppLinkURLScheme</key>
-		<string>turbometa://</string>
+		<string>com.smartview.glassai.app://</string>
 		<key>MetaAppID</key>
 		<string>1820792255781573</string>
 		<key>ClientToken</key>
